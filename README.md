@@ -28,7 +28,6 @@ we'll be working with is birds. In this lesson, we'll cover the two routes for
 ## Setup
 
 First, we'll need to install the dependencies as usual:
-
 ```console
 $ bundle install
 ```
